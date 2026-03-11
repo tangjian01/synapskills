@@ -38,5 +38,11 @@
     "source" : "./",
     "strict" : false,
     "skills" : [ "./skills/aaaaaaa" ]
+  }, {
+    "name" : "测试附件",
+    "description" : "测试附件是否正常发布",
+    "source" : "./",
+    "strict" : false,
+    "skills" : [ "./skills/测试附件" ]
   } ]
 }
