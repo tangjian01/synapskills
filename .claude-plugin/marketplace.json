@@ -8,5 +8,15 @@
     "description" : "iflytek agent skills",
     "version" : "1.0.0"
   },
-  "plugins" : [ ]
+  "plugins" : [
+    {
+      "name": "example",
+      "description": "test install",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/example"
+      ]
+    }
+  ]
 }
