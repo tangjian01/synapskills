@@ -8,41 +8,5 @@
     "description" : "iflytek agent skills",
     "version" : "1.0.0"
   },
-  "plugins" : [ {
-    "name" : "SKILL",
-    "description" : "001001",
-    "source" : "./",
-    "strict" : false,
-    "skills" : [ "./skills/001/SKILL" ]
-  }, {
-    "name" : "发布 1",
-    "description" : "发布 1",
-    "source" : "./",
-    "strict" : false,
-    "skills" : [ "./skills/SKILL" ]
-  }, {
-    "name" : "发布 12",
-    "description" : "发布 1",
-    "source" : "./",
-    "strict" : false,
-    "skills" : [ "./skills/发布 12" ]
-  }, {
-    "name" : "发布 1333",
-    "description" : "发布 1",
-    "source" : "./",
-    "strict" : false,
-    "skills" : [ "./skills/发布 1333" ]
-  }, {
-    "name" : "aaaaaaa",
-    "description" : "宝宝宝宝宝 111111222",
-    "source" : "./",
-    "strict" : false,
-    "skills" : [ "./skills/aaaaaaa" ]
-  }, {
-    "name" : "测试附件",
-    "description" : "测试附件是否正常发布",
-    "source" : "./",
-    "strict" : false,
-    "skills" : [ "./skills/测试附件" ]
-  } ]
+  "plugins" : [ ]
 }
