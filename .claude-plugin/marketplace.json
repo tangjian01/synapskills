@@ -1,0 +1,12 @@
+{
+   "name": "iflytek-agent-skills",
+  "owner": {
+    "name": "技术中心",
+    "email": "jiantang9@iflytek.com"
+  },
+  "metadata": {
+    "description": "iflytek agent skills",
+    "version": "1.0.0"
+  },
+  "plugins":[]
+}
