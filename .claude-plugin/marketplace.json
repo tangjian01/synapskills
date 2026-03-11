@@ -32,5 +32,11 @@
     "source" : "./",
     "strict" : false,
     "skills" : [ "./skills/发布 1333" ]
+  }, {
+    "name" : "aaaaaaa",
+    "description" : "宝宝宝宝宝 111111222",
+    "source" : "./",
+    "strict" : false,
+    "skills" : [ "./skills/aaaaaaa" ]
   } ]
 }
