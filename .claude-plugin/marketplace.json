@@ -26,5 +26,11 @@
     "source" : "./",
     "strict" : false,
     "skills" : [ "./skills/发布 12" ]
+  }, {
+    "name" : "发布 1333",
+    "description" : "发布 1",
+    "source" : "./",
+    "strict" : false,
+    "skills" : [ "./skills/发布 1333" ]
   } ]
 }
