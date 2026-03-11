@@ -14,5 +14,11 @@
     "source" : "./",
     "strict" : false,
     "skills" : [ "./skills/001/SKILL" ]
+  }, {
+    "name" : "发布 1",
+    "description" : "发布 1",
+    "source" : "./",
+    "strict" : false,
+    "skills" : [ "./skills/SKILL" ]
   } ]
 }
